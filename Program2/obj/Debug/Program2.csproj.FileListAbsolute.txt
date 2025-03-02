@@ -1,0 +1,10 @@
+C:\Users\tener\source\repos\Program2\bin\Debug\Program2.exe.config
+C:\Users\tener\source\repos\Program2\bin\Debug\Program2.exe
+C:\Users\tener\source\repos\Program2\bin\Debug\Program2.pdb
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.backform.resources
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.exe
+C:\Users\tener\source\repos\Program2\obj\Debug\Program2.pdb
